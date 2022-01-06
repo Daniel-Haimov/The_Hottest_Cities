@@ -1,0 +1,17 @@
+/home/daniel/RavenTrials.GetCurrentWeather/bin/Debug/net6.0/RavenTrials.GetCurrentWeather
+/home/daniel/RavenTrials.GetCurrentWeather/bin/Debug/net6.0/RavenTrials.GetCurrentWeather.deps.json
+/home/daniel/RavenTrials.GetCurrentWeather/bin/Debug/net6.0/RavenTrials.GetCurrentWeather.runtimeconfig.json
+/home/daniel/RavenTrials.GetCurrentWeather/bin/Debug/net6.0/RavenTrials.GetCurrentWeather.dll
+/home/daniel/RavenTrials.GetCurrentWeather/bin/Debug/net6.0/ref/RavenTrials.GetCurrentWeather.dll
+/home/daniel/RavenTrials.GetCurrentWeather/bin/Debug/net6.0/RavenTrials.GetCurrentWeather.pdb
+/home/daniel/RavenTrials.GetCurrentWeather/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.csproj.AssemblyReference.cache
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.AssemblyInfoInputs.cache
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.AssemblyInfo.cs
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.csproj.CoreCompileInputs.cache
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.csproj.CopyComplete
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.dll
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/ref/RavenTrials.GetCurrentWeather.dll
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.pdb
+/home/daniel/RavenTrials.GetCurrentWeather/obj/Debug/net6.0/RavenTrials.GetCurrentWeather.genruntimeconfig.cache
